@@ -111,6 +111,8 @@ p {
 .post-container:first-child{
   background-color: #f2f2f2;
 }
+.post-content a{
+  text-decoration: none;
 .post-content a:hover{
-  color: #c3c3c3
+  color: #c3c3c3;
 }
